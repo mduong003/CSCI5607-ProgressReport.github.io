@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   padding: 20px;
   margin: 0;
-  background: #b56d79;
+  background: #915660;
   color: rgb(0, 0, 0);
 }
 
@@ -18,7 +18,7 @@ h2 {
   padding: 20px;
   border-radius: 8px;
   margin: 0 auto 10px auto;
-  background: #8d5b5b;
+  background: #a77878;
   color: rgb(0, 0, 0);
   margin-bottom: 10px;
 }
@@ -43,7 +43,16 @@ div {
 
 
 .description .textbox {
-  background-color: gray;
+  background-color: rgb(190, 188, 188);
   text-align: center;
+}
+
+.features {
+  text-align: center;
+}
+
+.features ul {
+  display: inline-block;
+  text-align: left; 
 }
 
