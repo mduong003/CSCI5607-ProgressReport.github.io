@@ -57,10 +57,9 @@ div {
 }
 
 .img-container{
-  display: flex;  
-  flex-wrap: wrap;      
+  display: flex;      
   flex-direction: row;     
+  align-items: center;
   gap: 10px;
-  background-color: rgb(185, 153, 153);
   max-width: auto;
 }
