@@ -59,7 +59,15 @@ div {
 .img-container{
   display: flex;      
   flex-direction: row;     
-  align-items: center;
+  align-content: center;
   gap: 10px;
   max-width: auto;
 }
+
+img{
+  display: block;
+  margin: 0 auto 15px;
+  width: 500px;
+  height: 500px;
+}
+
